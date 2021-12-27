@@ -1,2 +1,1 @@
-# guided-dropout-pytorch
-Unofficial PyTorch implementation of Guided Dropout
+# Unofficial PyTorch implementation of Guided Dropout
