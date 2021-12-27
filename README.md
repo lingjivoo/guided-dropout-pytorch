@@ -1,8 +1,11 @@
 # Unofficial PyTorch implementation of [Guided Dropout](https://arxiv.org/abs/1812.03965)
 This is a simple implementation of Guided Dropout for research.
-We try to reproduce the algorithmn according to the paper publised in AAA-19, but we can't guarantee the performance reported in the paper.
+We try to reproduce the algorithm according to the paper published in AAA-19, but we can't guarantee the performance reported in the paper.
 We will list some experiment results soon.
 
+##TODO
+- <input type="checkbox" checked>Release the reproduced code</input>
+- <input type="checkbox" >list experiment results</input>
 
 ## Setup
 ```
